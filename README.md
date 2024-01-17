@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Surya:
-🔭 I’m currently working on [@DeepIdea Lab](https://www.deepidealab.com), my automation agency.
+🔭 I’m currently working on [@DeepIdea Lab](https://www.deepidealab.com), my automation agency.<br/>
 ✨ I'm learning React to create indie projects.
 
 ## 🌐 Socials:
